@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meghana M Gowda
 -👀 Interested in: Data Science & AI
 -🌱 Currently learning: Data Science (Beginner Level)
--💞️ Looking to collaborate on: Data Science projects, ML models, and analytics
+-🤝  Looking to collaborate on: Data Science projects, ML models, and analytics
 - 📫 How to reach me?
        📩 Email: meghanamm0527@gmail.com
        🔗 LinkedIn:www.linkedin.com/in/Meghana-M-tech
