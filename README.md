@@ -1,16 +1,24 @@
-- 👋 Hi, I’m Meghana M Gowda
--👀 Interested in: Data Science & AI
--🌱 Currently learning: Data Science (Beginner Level)
--🤝  Looking to collaborate on: Data Science projects, ML models, and analytics
-- 📫 How to reach me?
-       📩 Email: meghanamm0527@gmail.com
-       🔗 LinkedIn:www.linkedin.com/in/Meghana-M-tech
-       💻 GitHub: https://github.com/Meghana-M-Gowda
-- 😄 Pronouns:She/Her, but also a sentient AI trapped in a human body. 🤖🧠
-- ⚡ Fun fact: I can spend hours analyzing data trends but still struggle to pick a movie to watch. 🎬😂
-              - I treat every dataset like a crime scene—searching for missing values and outliers. 🕵️‍♀️📊
-              
-<!---
-Meghana-M-Gowda/Meghana-M-Gowda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Meghana M Gowda
+
+🎮 **Passionate Game Developer & Programmer**  
+👀 Interested in: Game Design, Godot Engine, Interactive Experiences  
+🌱 Currently learning: Advanced Game Development, Animation, Multiplayer Networking  
+🤝 Looking to collaborate on: Indie game projects, open-source game tools, and creative game jams
+---
+📫 How to reach me:  
+✉️ Email: meghanamm0527@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/Meghana-M-tech](https://www.linkedin.com/in/Meghana-M-tech)  
+💻 GitHub: [github.com/Meghana-M-Gowda](https://github.com/Meghana-M-Gowda)
+---
+😄 Pronouns: She/Her  
+⚡ Fun fact: I can spend hours crafting game mechanics but sometimes lose track of time playing my own games! 🎮😂  
+🔍 I treat every game bug like a detective mystery waiting to be solved. 🕵️‍♀️🎲
+---
+## Featured Skills  
+- Godot Engine (GDScript, 2D & 3D game dev)  
+- Game physics, animations, UI/UX design  
+- Version control with Git & GitHub  
+- Basic C#, Python, and data-driven game logic  
+- Sound integration and visual effects  
+---
+Let's build something fun and engaging! 🚀
