@@ -7,7 +7,7 @@
 
 ### 📫 How to reach me:
 - ✉️ Email: [gamedevmegh@gmail.com](mailto:gemedevmegh@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/Meghana-M-tech](https://linkedin.com/in/Meghana-M-tech)  
+- 🔗 LinkedIn: [www.linkedin.com/in/game-dev-megh](www.linkedin.com/in/game-dev-megh)  
 - 💻 GitHub: [Meghana-M-Gowda](https://github.com/Meghana-M-Gowda)  
 
 😄 **Pronouns:** She/Her  
