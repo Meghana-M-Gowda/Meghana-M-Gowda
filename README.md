@@ -6,8 +6,8 @@
 🤝 **Looking to collaborate on:** Indie game projects, open-source game tools, and creative game jams  
 
 ### 📫 How to reach me:
-- ✉️ Email: [gamedevmegh@gmail.com](mailto:gemedevmegh@gmail.com)  
-- 🔗 LinkedIn: [www.linkedin.com/in/game-dev-megh](www.linkedin.com/in/game-dev-megh)  
+- ✉️ Email: [meghanamm0527@gmail.com](mailto:meghanamm0527@gmail.com)  
+- 🔗 LinkedIn: [www.linkedin.com/in/game-dev-megh](https://www.linkedin.com/in/game-dev-megh)  
 - 💻 GitHub: [Meghana-M-Gowda](https://github.com/Meghana-M-Gowda)  
 
 😄 **Pronouns:** She/Her  
