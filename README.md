@@ -4,7 +4,7 @@
 🌱 Currently Learning: Advanced Game Development, Animation, Multiplayer Networking
 🤝 Open to Collaborations: Indie games, open-source tools, game jams
 📫 Reach Me:
-✉️ meghanamm0527@gmail.com
+✉️ gamedevmegh@gmail.com
 🔗 LinkedIn
 💻 GitHub
 😄 Pronouns: She/Her
